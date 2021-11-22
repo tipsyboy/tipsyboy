@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![tipsyboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tipsyboy)](https://github.com/tipsyboy/github-readme-stats)
+[![tipsyboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tipsyboy&show_icons=true&theme=darcula)
+)](https://github.com/tipsyboy/github-readme-stats)
 
 <!--
 **tipsyboy/tipsyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
