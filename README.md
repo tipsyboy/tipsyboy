@@ -1,7 +1,9 @@
 ### Hi there 👋
-[![tipsyboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tipsyboy&show_icons=true&theme=darcula)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsyboy&layout=compact&show_icons=true&theme=darcula)]
+![tipsyboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tipsyboy&show_icons=true&theme=darcula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsyboy&layout=compact&show_icons=true&theme=darcula)
+
+
 <!--
 **tipsyboy/tipsyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
