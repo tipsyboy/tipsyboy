@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 Hi 👋
 
 ![tipsyboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tipsyboy&show_icons=true&theme=darcula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsyboy&layout=compact&show_icons=true&theme=darcula)
