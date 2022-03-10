@@ -4,7 +4,7 @@
 안녕하세요 👋 <br>
 </p> 
 <div align="center">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsyboy&layout=compact&show_icons=true&theme=darcula)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsyboy&layout=compact&show_icons=true)
 </div>
 
 <div align="center">
