@@ -33,4 +33,4 @@
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=5BC1DD)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=5BC1DD&height=120)
