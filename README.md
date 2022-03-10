@@ -6,7 +6,7 @@
 
 <div align="center">
   왜 적용이 안될까;;;<br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsyboy&layout=compact&show_icons=true&theme=darcula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsyboy&layout=compact&show_icons=true&theme=darcula)]
 </div>
 
 
