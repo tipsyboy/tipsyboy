@@ -3,7 +3,11 @@
 
 <p align="center">
 안녕하세요 👋 <br>
-</p>
+</p> 
 
+<div align="center">
+  ![tipsyboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tipsyboy&show_icons=true&theme=darcula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsyboy&layout=compact&show_icons=true&theme=darcula)
+  </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&color=5BC1DD)
