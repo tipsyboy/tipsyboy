@@ -10,13 +10,17 @@
 
 ---
 
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsyboy&layout=compact&show_icons=true)
-![tipsyboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tipsyboy&show_icons=true&theme=darcula)
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipsyboy&layout=compact&show_icons=true)  
+  ![tipsyboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tipsyboy&show_icons=true&theme=darcula)
+</div>
 
-
-### 🎲 Solved.ac Profile 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tipsyboy)](https://solved.ac/tipsyboy)
+<div align="center">
+  
+  ### 🎲 Solved.ac Profile   
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tipsyboy)](https://solved.ac/tipsyboy)
+</div>
 
 ---
 
