@@ -10,11 +10,11 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
   ### 🎲 Solved.ac Profile   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tipsyboy)](https://solved.ac/tipsyboy)
-</div>
+</div> -->
 
 ---
 
